@@ -1,4 +1,4 @@
-# Billboard's Top 1000 Songs
+# Billboard's Top Songs of All Time
 Taking a list of Guardian's Top Songs of All Time, primarily utilizing Spotify's API to extract new song features.
 
 # Edit: 
